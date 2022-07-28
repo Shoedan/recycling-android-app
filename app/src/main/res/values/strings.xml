@@ -1,0 +1,92 @@
+<!--
+ Copyright 2020 Google LLC
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+
+<resources>
+    <string name="app_name">Recyclable Waste Management</string>
+    <string name="title_activity_maps">Recycle Points</string>
+    <string name="default_info_title">Default Location</string>
+    <string name="default_info_snippet">No places found, because location permission is disabled.</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Usage Mode Selection</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="choose_user_type">Choose User Type</string>
+    <string name="user">User</string>
+    <string name="company">Company</string>
+    <string name="stats">Statistics</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="total_recycled">Total Recycled</string>
+    <string name="maximum_capacity">Capacity</string>
+    <string name="current_capacity">Current Amount</string>
+    <string name="type">Type</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="Legend">Legend</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="please_enter_the_password">Please enter the password</string>
+    <string name="login">LogIn</string>
+    <string name="current_situation_at_point">Current Situation at Point</string>
+    <string name="paper">Paper</string>
+    <string name="plastic">Plastic</string>
+    <string name="glass">Glass</string>
+    <string name="enter_amount_you_want_to_recycle">Enter amount you want to recycle</string>
+    <string name="done">Done</string>
+    <string name="closest">Closest</string>
+    <string name="pressing_the_button_will_add_last_month_stats_to_current_year_stats_and_move_current_month_stats_to_last_month_stats">Pressing the Button will add Last Month Stats to Current Year stats and move Current Month Stats to Last Month Stats</string>
+    <string name="pick_the_city_in_which_you_want_to_see_the_recycle_points">Pick the City in which you want to see the Recycle Points</string>
+    <string name="empty">Empty</string>
+    <string name="_5_cutting_climate_changing_carbon_emissions">5. Cutting climate-changing carbon emissions</string>
+    <string name="_3_reducing_demand_for_raw_materials">3. Reducing demand for raw materials</string>
+    <string name="_2_protecting_ecosystems_and_wildlife">2. Protecting ecosystems and wildlife</string>
+    <string name="why_should_you_recycle">Why should you Recycle ?</string>
+    <string name="_1_conserving_natural_resources">1. Conserving natural resources</string>
+    <string name="recycling_paper_and_wood_saves_trees_and_forests_yes_you_can_plant_new_trees_but_you_can_t_replace_virgin_rainforest_or_ancient_woodlands_once_they_re_lost">Recycling paper and wood saves trees and forests. Yes, you can plant new trees, but you can\'t replace virgin rainforest or ancient woodlands once they\'re lost.</string>
+    <string name="recycling_plastic_means_creating_less_new_plastic_which_is_definitely_a_good_thing_especially_as_it_s_usually_made_from_fossil_fuel_hydrocarbons">Recycling plastic means creating less new plastic, which is definitely a good thing, especially as it\'s usually made from fossil fuel hydrocarbons.</string>
+    <string name="recycling_glass_reduces_the_need_to_use_new_raw_materials_like_sand_it_sounds_hard_to_believe_but_supplies_of_some_types_of_sand_are_starting_to_get_low_around_the_world">Recycling glass reduces the need to use new raw materials like sand – it sounds hard to believe, but supplies of some types of sand are starting to get low around the world.</string>
+    <string name="recycling_reduces_the_need_to_grow_harvest_or_extract_new_raw_materials_from_the_earth_nthat_in_turn_lessens_the_harmful_disruption_and_damage_being_done_to_the_natural_world_fewer_forests_cut_down_rivers_diverted_wild_animals_harmed_or_displaced_and_less_pollution_of_water_soil_and_air_nand_of_course_if_our_plastic_waste_isn_t_safely_put_in_the_recycling_it_can_be_blown_or_washed_into_rivers_and_seas_and_end_up_hundreds_or_thousands_of_miles_away_polluting_coastlines_and_waterways_and_becoming_a_problem_for_everyone">Recycling reduces the need to grow, harvest or extract new raw materials from the Earth. \nThat in turn lessens the harmful disruption and damage being done to the natural world: fewer forests cut down, rivers diverted, wild animals harmed or displaced, and less pollution of water, soil and air. \nAnd of course if our plastic waste isn\'t safely put in the recycling, it can be blown or washed into rivers and seas and end up hundreds or thousands of miles away, polluting coastlines and waterways and becoming a problem for everyone.</string>
+    <string name="the_world_s_increasing_demand_for_new_stuff_has_led_to_more_of_the_poorest_and_most_vulnerable_people_for_example_those_living_around_forests_or_river_systems_being_displaced_from_their_homes_or_otherwise_exploited_forest_communities_can_find_themselves_evicted_as_a_result_of_the_search_for_cheap_timber_and_rivers_can_be_damned_or_polluted_by_manufacturing_waste_nit_s_far_better_to_recycle_existing_products_than_to_damage_someone_else_s_community_or_land_in_the_search_for_new_raw_materials">The world\'s increasing demand for new stuff has led to more of the poorest and most vulnerable people (for example, those living around forests or river systems) being displaced from their homes, or otherwise exploited. Forest communities can find themselves evicted as a result of the search for cheap timber and rivers can be damned or polluted by manufacturing waste. \nIt\'s far better to recycle existing products than to damage someone else\'s community or land in the search for new raw materials.</string>
+    <string name="_4_saving_energy">4. Saving energy</string>
+    <string name="making_products_from_recycled_materials_requires_less_energy_than_making_them_from_new_raw_materials_sometimes_it_s_a_huge_difference_in_energy_for_example_nproducing_new_aluminium_from_old_products_including_recycled_cans_and_foil_uses_95_less_energy_than_making_it_from_scratch_for_steel_it_s_about_a_70_energy_saving_nmaking_paper_from_pulped_recycled_paper_uses_40_less_energy_than_making_it_from_virgin_wood_fibres_the_amount_of_energy_saved_from_recycling_one_glass_bottle_could_power_an_old_100_watt_light_bulb_for_4_hours_and_a_new_low_energy_led_equivalent_for_a_lot_longer">Making products from recycled materials requires less energy than making them from new raw materials. Sometimes it\'s a huge difference in energy. For example: \nProducing new aluminium from old products (including recycled cans and foil) uses 95% less energy than making it from scratch. For steel it\'s about a 70% energy saving. \nMaking paper from pulped recycled paper uses 40% less energy than making it from virgin wood fibres. The amount of energy saved from recycling one glass bottle could power an old 100-watt light bulb for 4 hours and a new low-energy LED equivalent for a lot longer.</string>
+    <string name="because_recycling_means_you_need_to_use_less_energy_on_sourcing_and_processing_new_raw_materials_it_produces_lower_carbon_emissions_it_also_keeps_potentially_methane_releasing_waste_out_of_landfill_sites_nreducing_carbon_dioxide_and_other_greenhouse_gases_being_emitted_into_the_atmosphere_is_vital_for_stopping_disastrous_climate_change">Because recycling means you need to use less energy on sourcing and processing new raw materials, it produces lower carbon emissions. It also keeps potentially methane-releasing waste out of landfill sites. \nReducing carbon dioxide and other greenhouse gases being emitted into the atmosphere is vital for stopping disastrous climate change.</string>
+    <string name="pressing_the_button_will_delete_last_year_stats_and_will_move_current_year_stats_to_last_year_stats">Pressing the button will delete Last Year stats and will move Current Year Stats to Last Year Stats</string>
+    <string name="warning">WARNING !</string>
+    <string name="this_process_is_irreversible">This process is irreversible .</string>
+    <string name="new_year">New Year</string>
+    <string name="point_icon">Point Icon</string>
+    <string name="point_name">Point Name :</string>
+    <string name="recycled_types">Recycled Types :</string>
+    <string name="current_amount">Current Amount :</string>
+    <string name="capacity">Capacity :</string>
+    <string name="why">Why ?</string>
+    <string name="deposit">Deposit</string>
+    <string name="last_month_statistics">Last Month Statistics</string>
+    <string name="last_year_statistics">Last Year Statistics</string>
+    <string name="amount_of_paper_recycled">Amount of paper recycled</string>
+    <string name="amount_of_plastic_recycled">Amount of plastic recycled</string>
+    <string name="amount_of_glass_recycled">Amount of glass recycled</string>
+    <string name="total_amount_of_waste_recycled">Total amount of waste recycled</string>
+    <string name="select_the_city_you_want_to_monitor">Select the city you want to monitor.</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="new_month">New Month</string>
+</resources>
